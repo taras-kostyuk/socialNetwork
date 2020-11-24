@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba2031e8-0bbe-409d-ac40-1c518e4b8618" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iyjZKiqP37d8SIvRouW6dw9lwN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Redux" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="C:\it-incubator\social-network\sn-ts\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\it-incubator\social-network\sn-ts\src\Redux" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\components\Dialogs\DialogItem" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\components\Dialogs\Message" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\components\Profile\ProfileInfo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\it-incubator\social-network\sn-ts\src\" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\images\components\Profile" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\images\components\Navbar" />
+      <recent name="C:\it-incubator\social-network\sn-ts\src\images\components\Herader" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba2031e8-0bbe-409d-ac40-1c518e4b8618" name="Default Changelist" comment="" />
+      <created>1602886779941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602886779941</updated>
+      <workItem from="1602886791049" duration="6493000" />
+      <workItem from="1603104244010" duration="4507000" />
+      <workItem from="1603111209795" duration="920000" />
+      <workItem from="1603133887049" duration="1543000" />
+      <workItem from="1603221679380" duration="3213000" />
+      <workItem from="1603225184242" duration="3147000" />
+      <workItem from="1603542971061" duration="9017000" />
+      <workItem from="1603556032329" duration="1580000" />
+      <workItem from="1603557780196" duration="13322000" />
+      <workItem from="1604002879235" duration="1226000" />
+      <workItem from="1604154290519" duration="15000000" />
+      <workItem from="1604254690835" duration="15549000" />
+      <workItem from="1604341798531" duration="11942000" />
+      <workItem from="1604947498267" duration="10574000" />
+      <workItem from="1605208145077" duration="6072000" />
+      <workItem from="1605293493488" duration="1879000" />
+      <workItem from="1605383156518" duration="1199000" />
+      <workItem from="1605899198275" duration="409000" />
+      <workItem from="1605971693656" duration="14756000" />
+      <workItem from="1606001016542" duration="6369000" />
+      <workItem from="1606045604252" duration="12263000" />
+      <workItem from="1606071443219" duration="1190000" />
+      <workItem from="1606076435072" duration="4388000" />
+      <workItem from="1606242843544" duration="1701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="271" key="#ESLint" timestamp="1603223952316">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="508" y="271" key="#ESLint/0.0.1280.760@0.0.1280.760" timestamp="1603223952316" />
+    <state width="1378" height="267" key="GridCell.Tab.0.bottom" timestamp="1606242923462">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state width="1258" height="185" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1606066629427" />
+    <state width="1378" height="267" key="GridCell.Tab.0.bottom/1400.0.1280.760/0.0.1400.1010@0.0.1400.1010" timestamp="1606242923462" />
+    <state width="1378" height="267" key="GridCell.Tab.0.center" timestamp="1606242923462">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state width="1258" height="185" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1606066629426" />
+    <state width="1378" height="267" key="GridCell.Tab.0.center/1400.0.1280.760/0.0.1400.1010@0.0.1400.1010" timestamp="1606242923462" />
+    <state width="1378" height="267" key="GridCell.Tab.0.left" timestamp="1606242923462">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state width="1258" height="185" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1606066629426" />
+    <state width="1378" height="267" key="GridCell.Tab.0.left/1400.0.1280.760/0.0.1400.1010@0.0.1400.1010" timestamp="1606242923462" />
+    <state width="1378" height="267" key="GridCell.Tab.0.right" timestamp="1606242923462">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state width="1258" height="185" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1606066629426" />
+    <state width="1378" height="267" key="GridCell.Tab.0.right/1400.0.1280.760/0.0.1400.1010@0.0.1400.1010" timestamp="1606242923462" />
+    <state x="154" y="15" key="SettingsEditor" timestamp="1606162580787">
+      <screen x="0" y="0" width="1400" height="1010" />
+    </state>
+    <state x="141" y="11" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1604355722498" />
+    <state x="154" y="15" key="SettingsEditor/1400.0.1280.760/0.0.1400.1010@0.0.1400.1010" timestamp="1606162580787" />
+    <state x="203" y="0" width="585" height="760" key="find.popup" timestamp="1606062719917">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="203" y="0" width="585" height="760" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1606062719917" />
+    <state x="432" y="237" key="scopes" timestamp="1605971917532">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="432" y="237" key="scopes/0.0.1280.760@0.0.1280.760" timestamp="1605971917532" />
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1604354938945">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1604354938945" />
+  </component>
+</project>
