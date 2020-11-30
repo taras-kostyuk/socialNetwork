@@ -9,22 +9,16 @@ import {BrowserRouter, Route} from 'react-router-dom';
 import News from "./components/News/News";
 import Music from "./components/Music/Music";
 import Settings from "./components/Settings/Settings";
-import {ActionsTypes, store, StoreType} from "./Redux/sate";
+import {StoreType} from "./Redux/store";
 import {Profile} from "./components/Profile/Profile";
 
 
 type AppPropsType = {
-
-
     store: StoreType
-
 }
-
-
 export const App: React.FC<AppPropsType> = (props) => {
 
     const state = props.store.getState()
-
     return (
 
         <BrowserRouter>
@@ -37,8 +31,6 @@ export const App: React.FC<AppPropsType> = (props) => {
                     <Route path='/dialogs' render={() =>
                         <Dialogs
                             store={props.store}/>}/>
-
-
 
                     <Route path='/profile' render={() =>
                         <Profile

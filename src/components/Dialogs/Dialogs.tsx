@@ -3,7 +3,10 @@ import s from './Dialogs.module.css'
 
 import DialogItem from "./DialogItem/DialogsItem";
 import Message from "./Message/Message";
-import { sendMessage, StoreType, updateNewMessageBody} from "../../Redux/sate";
+import {sendMessage, updateNewMessageBody} from "../../Redux/dialogs-reducer";
+import {StoreType} from "../../Redux/store";
+// import { sendMessage, StoreType} from "../../Redux/store";
+// import {updateNewMessageBody} from "../../Redux/dialogs-reducer";
 
 type DialogsPropsType = {
     store: StoreType
